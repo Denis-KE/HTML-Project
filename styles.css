@@ -1,0 +1,96 @@
+
+ul li{
+    display: inline;
+    position: relative;
+    margin: 10px;
+    list-style: none;
+
+}
+li a{
+    color: white;
+    text-decoration: none;
+}
+h1{
+    position: relative;
+    color: white;
+    margin-left: 100px;
+
+}
+nav{
+    width: auto;
+    float: right;
+   padding-right:300px;
+}
+.list{
+    height: 50px;
+    background: black;
+}
+.img1{
+    float: right;
+    margin-top: 30px;
+    padding-right: 50px;
+}
+.mida{
+    float: left;
+    margin-top: 40px;
+}
+.mida h2{
+    font-weight: bold;
+    color: black;
+    padding-left: 80px;
+}
+.mida p{
+    color: black;
+    width: 300px;
+    padding-left: 80px;
+}
+.mid{
+     height: 500px;
+    background-color: grey;
+}
+.mida button{
+    background: orange;
+    padding-left: 40px;
+    position: center;
+}
+.img2{
+    display: inline-block;
+    margin: 40px;
+    margin-top: 0px;
+    padding-top: 0px;
+}
+.img2 p{
+    width: 200px;
+}
+.img2 h4{
+    font-weight: bold;
+    color: black;
+
+}
+.img2 button{
+    background-color: orange;
+}
+.tittlec h3{
+    margin-bottom: 0px;
+}
+.footer{
+    height: 400px;
+    background-color: black;
+    width: auto;
+}
+.bottom{
+    color: white;
+    list-style: none;
+   display: inline-block;
+ margin: 70px;
+}
+.bottom p{
+    width: 200px;
+}
+.bottom h5{
+    margin-top: 0px;
+    font-weight: bold;
+}
+.bottom h5 i{
+    display: block;
+}
